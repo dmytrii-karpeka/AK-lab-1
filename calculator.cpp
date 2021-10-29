@@ -18,3 +18,14 @@ int Calculator::Mul (double a, double b)
 {
     return a * b + 0.5;
 }
+
+/* Laboratory work
+ * has done
+ * using git
+ * rebase
+ * and
+ * cherry-pick.
+ *
+ * It was pretty fun!
+ *
+ * */
